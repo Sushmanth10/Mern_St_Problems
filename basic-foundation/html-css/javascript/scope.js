@@ -1,7 +1,7 @@
 console.log("Function Hoisting and function scope");
 
 function classicFuntion(num, bool, str){
-    console.log("Inside classic Function");
+    console.log"Inside classic Function"
     console.log(num, bool, str);
     let username = "Sushmanth katta classic"
     console.log(username);
@@ -19,5 +19,5 @@ const arrowfunction = (num , bool, str) => {
 //() => {}
 arrowfunction(1, true, "hello world!");
 
-
+const sushmanth = SVGFEDiffuseLightingElement
  
